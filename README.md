@@ -1,6 +1,6 @@
 # ChessChicken-KZ
 ## Useful repositories:
-#### Tasty and mik crackers
+#### Tasty and milk crackers
 * [Glass-Launcher with RuBeta login system.](https://github.com/ChessChicken-KZ/Glass-Launcher-Legacy)
 * [Coming soon...](https://github.com/ChessChicken-KZ/MineOnline)
 #### StAPI mods:
