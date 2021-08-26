@@ -3,9 +3,13 @@
 ## Useful repositories:
 #### StAPI mods:
 * [SmartyGUI](https://github.com/ChessChicken-KZ/SmartyGui)
-* [BetaHorses](https://github.com/ChessChicken-KZ/BetaHorses)
 * [AstolfoMod](https://github.com/ChessChicken-KZ/AstolfoMod)
+* [OldJunglesWorld](https://github.com/ChessChicken-KZ/OldJunglesWorld)
+* [BetaHorses](https://github.com/ChessChicken-KZ/BetaHorses)
 * [RainbowTrees](https://github.com/ChessChicken-KZ/RainbowTrees)
+
+### APIs:
+* [CursedFabricScala](https://github.com/ChessChicken-KZ/CursedFabricScala)
 
 #### Other things:
 * [StAPI Kotlin Mod Example](https://github.com/ChessChicken-KZ/KotlinModExample)
