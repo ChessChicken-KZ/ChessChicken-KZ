@@ -1,5 +1,4 @@
 # ChessChicken-KZ
-[My github.io](https://chesschicken-kz.github.io)
 ## Useful repositories:
 #### StAPI mods:
 * [SmartyGUI](https://github.com/ChessChicken-KZ/SmartyGui)
