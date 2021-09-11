@@ -10,6 +10,7 @@
 #### APIs:
 * [CursedFabricScala](https://github.com/ChessChicken-KZ/CursedFabricScala)
 * [SimpleBiomeSystem](https://github.com/ChessChicken-KZ/SimpleBiomeSystem)
+* [CompatibilityAPI](https://github.com/ChessChicken-KZ/CompatibilityAPI)
 
 #### Other things:
 * [StAPI Kotlin Mod Example](https://github.com/ChessChicken-KZ/KotlinModExample)
