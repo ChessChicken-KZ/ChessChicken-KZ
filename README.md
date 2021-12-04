@@ -1,7 +1,7 @@
 # ChessChicken-KZ
 ## Useful repositories:
 #### StAPI mods:
-* [SmartyGUI](https://github.com/ChessChicken-KZ/SmartyGui)
+* [SmartyGUI](https://github.com/ChessChicken-KZ/SmartyGUI)
 * [AstolfoMod](https://github.com/ChessChicken-KZ/AstolfoMod)
 * [OldJunglesWorld](https://github.com/ChessChicken-KZ/OldJunglesWorld)
 * [BetaHorses](https://github.com/ChessChicken-KZ/BetaHorses)
