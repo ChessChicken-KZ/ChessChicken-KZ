@@ -1,4 +1,5 @@
 # ChessChicken-KZ
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChessChicken-KZ&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 ## Useful repositories:
 #### StAPI mods:
 * [SmartyGUI](https://github.com/ChessChicken-KZ/SmartyGUI)
