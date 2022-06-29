@@ -1,5 +1,5 @@
 # [ChessChicken-KZ](https://chesschicken-kz.github.io)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChessChicken-KZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChessChicken-KZ&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 ## Useful repositories:
 
 #### ModLoader/StationAPI mods:
