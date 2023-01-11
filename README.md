@@ -1,7 +1,7 @@
 # [ChessChicken-KZ](https://chesschicken-kz.github.io)
 
 ## Things:
-* [Minecraft jar-mods list.](https://gist.github.com/ChessChicken-KZ/0981645ee1ce24067d3199a981c2cccc)
+* [Minecraft jar-mods list.](https://github.com/ChessChicken-KZ/ChessChicken-KZ/blob/main/ModsList.md#mods-list)
 
 ## Useful repositories:
 
