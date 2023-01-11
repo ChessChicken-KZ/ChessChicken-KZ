@@ -60,6 +60,7 @@ It also includes the Skylands, with all biomes, and some new blocks and items.
 ## BetterBeta (b1.7.3) by "Aesthetic"
 **Social Links:**
   - [(Modification Station) Discord Message Hyperlink](https://discord.com/channels/397834523028488203/397839737605586945/936768129797861376)
+  - [Discord Server Link](https://discord.gg/WkH4gKgt)
   - [Mod's Changelog](https://pastebin.com/q6USQhPM)
 
 **Short Description:**
@@ -117,7 +118,8 @@ as you craft windmills, kilns and crucibles and eventually reach steel productio
 **Social Links:**
   - [(Modification Station) Discord Message Hyperlink](https://discord.com/channels/397834523028488203/397839737605586945/929145700422414346)
   - [YouTube Video](https://youtu.be/XcdplziDCKs)
-  - [Mod's Changelog](https://docs.google.com/document/d/1Bb15lX7lU2Oh3MqdA516ZQ-q0adDK_nk/edit?usp=sharing&ouid=109863346643452877534&rtpof=true&sd=true)
+  - [Discord Server Link](https://discord.gg/6hcSHU6KPz)
+  - [Mod's Changelog](https://tinyurl.com/mr3yp7p4)
 
 **Short Description:**
 ```
@@ -135,7 +137,7 @@ aiming to modernize and provide QoL features with new branch content that lines 
 ## Infdev Ultimate (infdev-20100625-1) by "MrLordSith"
 **Social Links:**
   - [Website](https://sithgames.com/mods/notsupported/)
-  - [Discord Server Link](https://discord.gg/E27N9Kt)
+  - [Discord Server Link](https://discord.gg/FCtU9jqEur)
   - [Mod's Archive.org](https://archive.org/details/infdevultimatearchive)
 
 **Short Description:**
