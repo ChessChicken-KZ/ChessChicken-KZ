@@ -4,6 +4,7 @@ The collection of various unique modifications for various MC versions.
 Please contact me if you're a developer and/or saw a mistake (incorrect description, links, etc).
 
 - [X] Adventure+ (r1.2.5)
+- [X] Back2Beta (1.7.9)
 - [X] Banshee (b1.7.3)
 - [X] BetterBeta (b1.7.3)
 - [X] Better Than Adventure (b1.7.3)
@@ -15,6 +16,7 @@ Please contact me if you're a developer and/or saw a mistake (incorrect descript
 - [X] PEMod (b1.7.3)
 - [X] The Right Branch of Development (r1.7.10)
 - [X] ReIndev (b1.7.3)
+- [X] RuBetaModded (build_)
 
 ## Adventure+ (r1.2.5) by "ggggaaaannnngggg"
 **Social Links:**
@@ -34,6 +36,24 @@ cut some content that does not fit the current vision of the mod.
   	- [GitHub Releases](https://github.com/ggggaaaannnngggg/AdventurePlus/releases)
 
 ![](https://cdn.discordapp.com/attachments/1014191881707606157/1014225626833621012/adventureplus_shpashka.png)
+## Back2Beta (1.7.9) by "SamMaddie"
+**Social Links:**
+  - [Minecraft Forum Thread](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/3150500-back2beta-1-7-6-mod-for-beta-1-7-3)
+  - [Discord Server Link](https://discord.gg/FWtEMqJG2B)
+
+**Short Description:**
+```
+Back2Beta is a comprehensive mod for Minecraft Beta 1.7.3 made by SamMaddie
+that effectively polishes the game, fixing as many bugs as possible while still maintaining the original gameplay.
+```
+
+**Download:**
+  - Client:
+  	- [1.7.8](https://www.mediafire.com/file/d6ayddwoayiex83/Back2Beta_1.7.8.zip/file)
+  - Server:
+  	- [1.7.8](https://www.mediafire.com/file/o7l9vc7wowkthnm/Back2Beta_Server_1.7.8.zip/file)
+
+![](https://cdn.discordapp.com/attachments/878632543275073546/1062711260363358218/7jucxmioy1p91.jpg)
 ## Banshee (b1.7.3) by "craftycodie"
 **Social Links:**
   - [(Modification Station) Discord Message Hyperlink](https://discord.com/channels/397834523028488203/397839737605586945/771492947996049418)
@@ -250,5 +270,21 @@ items, mobs, and features to make the game better and more interesting!
   	- [2.7.2_03](https://drive.google.com/file/d/1zcgMTluEBhS6me9uyFmMs2HhLShnZCh5/view?usp=sharing)
 
 ![](https://cdn.discordapp.com/attachments/1014191881707606157/1014231577137532948/unknown.png)
+## RuBetaModded (build_) by "HappyWaffle"
+**Social Links:**
+  - [Website](https://rubeta.net/)
+  - [Discord Server Link](https://discord.com/invite/xg3htxp)
+
+**Short Description:**
+```
+RuBeta is a Russian community server with own custom modification, which adds
+tons of different features, from decorative blocks till various gameplay changes.
+```
+
+**Download:**
+  - Client:
+  	- [Download Website](https://rubeta.net/)
+
+![](https://cdn.discordapp.com/attachments/878632543275073546/1062711471227813948/qX27qLByBlY.jpg)
 
 Collected by ChessChicken-KZ with love <3, thanks WaterfallFlower for help.
