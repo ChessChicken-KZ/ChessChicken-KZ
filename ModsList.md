@@ -4,7 +4,7 @@ The collection of various unique modifications for various MC versions.
 Please contact me if you're a developer and/or saw a mistake (incorrect description, links, etc).
 
 - [X] Adventure+ (r1.2.5)
-- [X] Back2Beta (1.7.9)
+- [X] Back2Beta (b1.7.3)
 - [X] Banshee (b1.7.3)
 - [X] BetterBeta (b1.7.3)
 - [X] Better Than Adventure (b1.7.3)
@@ -16,7 +16,7 @@ Please contact me if you're a developer and/or saw a mistake (incorrect descript
 - [X] PEMod (b1.7.3)
 - [X] The Right Branch of Development (r1.7.10)
 - [X] ReIndev (b1.7.3)
-- [X] RuBetaModded (build_)
+- [X] RuBetaModded (b1.7.3)
 
 ## Adventure+ (r1.2.5) by "ggggaaaannnngggg"
 **Social Links:**
@@ -36,7 +36,7 @@ cut some content that does not fit the current vision of the mod.
   	- [GitHub Releases](https://github.com/ggggaaaannnngggg/AdventurePlus/releases)
 
 ![](https://cdn.discordapp.com/attachments/1014191881707606157/1014225626833621012/adventureplus_shpashka.png)
-## Back2Beta (1.7.9) by "SamMaddie"
+## Back2Beta (b1.7.3) by "SamMaddie"
 **Social Links:**
   - [Minecraft Forum Thread](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/3150500-back2beta-1-7-6-mod-for-beta-1-7-3)
   - [Discord Server Link](https://discord.gg/FWtEMqJG2B)
@@ -270,7 +270,7 @@ items, mobs, and features to make the game better and more interesting!
   	- [2.7.2_03](https://drive.google.com/file/d/1zcgMTluEBhS6me9uyFmMs2HhLShnZCh5/view?usp=sharing)
 
 ![](https://cdn.discordapp.com/attachments/1014191881707606157/1014231577137532948/unknown.png)
-## RuBetaModded (build_) by "HappyWaffle"
+## RuBetaModded (b1.7.3) by "HappyWaffle"
 **Social Links:**
   - [Website](https://rubeta.net/)
   - [Discord Server Link](https://discord.com/invite/xg3htxp)
