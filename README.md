@@ -1,8 +1,5 @@
 # [ChessChicken-KZ](https://chesschicken-kz.github.io)
 
-## Things:
-* [The Minecraft mods list I've made.](https://github.com/ChessChicken-KZ/ChessChicken-KZ/blob/main/ModsList.md#mods-list)
-
 ## Useful repositories:
 
 #### ModLoader/StationAPI mods:
